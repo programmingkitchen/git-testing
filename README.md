@@ -136,6 +136,9 @@ git branch -D fix\
 ```
 
 
+** Conflicts
+
+https://phoenixnap.com/kb/how-to-resolve-merge-conflicts-in-git
 
 
 
