@@ -1,6 +1,6 @@
 
 
-2. 
+2. OTHER makes changes and commits.
 
 1. OTHER: make revision.txt, commit and push.
 
