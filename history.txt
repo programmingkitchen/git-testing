@@ -1,5 +1,8 @@
 
 
+3. Now we make some changes, but the other has made changes to 
+#2 and pushed since our last pull.  We are not overwriting #2. 
+
 2. 
 
 1. OTHER: make revision.txt, commit and push.
