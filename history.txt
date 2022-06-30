@@ -1,4 +1,6 @@
 4. WEBPAGE: Made some changes online to simulate change. 
+    4d. Local PC
+
     4b. Made a change on the web interface.
     4a. Made another change
 3. Now we make some changes, but the other has made changes to 
