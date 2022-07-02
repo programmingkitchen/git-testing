@@ -4,7 +4,11 @@
 
 **Remote Repo**
 ```
-https://github.com/programmingkitchen/azure.git
+
+https://github.com/programmingkitchen/git-testing.git
+
+git@github.com:programmingkitchen/git-testing.git
+
 ```
 
 **Setup Procedure**
@@ -25,7 +29,9 @@ git status
 
 **Clone**
 ```
-git clone https://github.com/udacity/nd9991-c3-Build-CI-CD-Pipelines-Monitoring-and-Logging-v1
+git clone <repo>
+
+git clone git@github.com:programmingkitchen/git-testing.git
 ```
 
 
