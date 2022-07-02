@@ -28,9 +28,17 @@ git status
 git clone https://github.com/udacity/nd9991-c3-Build-CI-CD-Pipelines-Monitoring-and-Logging-v1
 ```
 
+
 ## Configuration
-**On the Local Host**
+
+**Config Status**
 ```
+$ git config --list
+```
+
+**Global Config On the Local Host**
+```
+~/Dropbox/PYTHON-PROGRAMS/FLASK/headlines (master)
 git config --global user.email "programmingkitchen@gmail.com"
 git config --global user.name "Programming Kitchen"
 
@@ -46,14 +54,7 @@ git remote add origin https://github.com/rgranier/udacityjenkins1.git
 ```git remote set-url origin git@github.com:USERNAME/REPOSITORY.git
 git remote set-url origin git@github.com:programmingkitchen/alta3-myk8s.git
 ```
-**Do global config**
-```
- ~/Dropbox/PYTHON-PROGRAMS/FLASK/headlines (master)
-$ git config --global user.email "rgranier@gmail.com"
-$ git config --global user.name "Randall Granier"
 
-$ git config --list
-```
 
 ## Branching 
 **Look at the current remote**
@@ -114,7 +115,7 @@ git commit -m 'Fix some stuff'
 
 **Commit**
 ```
-git commit -m “my comment“
+git commit -m "my comment"
 ```
 
 **Merge with the local master (optional)**
@@ -135,9 +136,9 @@ git branch -d fix # Does not delete remote\
 git branch -D fix\
 ```
 
+## Merge Conflicts
 
-** Conflicts
-
+**Conflicts Website**
 https://phoenixnap.com/kb/how-to-resolve-merge-conflicts-in-git
 
 
