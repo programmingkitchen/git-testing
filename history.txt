@@ -1,3 +1,4 @@
+6. Deleted the github ssh key
 5. Git testing by changing the remote to https, with ssh keys configured.
 4. WEBPAGE: Made some changes online to simulate change. 
     4d. Local PC
