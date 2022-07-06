@@ -148,7 +148,7 @@ git branch -D fix\
 https://phoenixnap.com/kb/how-to-resolve-merge-conflicts-in-git
 
 
-
-
+## Git Prompt
+https://github.com/git/git/blob/master/contrib/completion/git-prompt.sh
 
 
